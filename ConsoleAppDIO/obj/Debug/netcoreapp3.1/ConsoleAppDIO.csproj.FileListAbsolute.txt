@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\bin\Debug\netcoreapp3.1\ConsoleAppDIO.exe
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\bin\Debug\netcoreapp3.1\ConsoleAppDIO.deps.json
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\bin\Debug\netcoreapp3.1\ConsoleAppDIO.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\bin\Debug\netcoreapp3.1\ConsoleAppDIO.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\bin\Debug\netcoreapp3.1\ConsoleAppDIO.dll
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\bin\Debug\netcoreapp3.1\ConsoleAppDIO.pdb
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.dll
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.pdb
+C:\Users\T-Gamer\Desktop\projetos\ConsoleAppDIO\ConsoleAppDIO\obj\Debug\netcoreapp3.1\ConsoleAppDIO.genruntimeconfig.cache
